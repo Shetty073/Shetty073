@@ -22,9 +22,9 @@
 #### My Top Repositories
 
 <a href="https://github.com/shetty073/amazon-top-deals-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shetty073&repo=amazon-top-deals-python&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shetty073&repo=amazon-top-deals-python&theme=outrun" />
 </a>
 
 <a href="https://github.com/shetty073/soak-your-brain-elearning-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shetty073&repo=soak-your-brain-elearning-app&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shetty073&repo=soak-your-brain-elearning-app&theme=outrun" />
 </a>
