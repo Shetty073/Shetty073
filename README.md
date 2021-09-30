@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ashish
 
 - 🌱 I’m currently pursuing my masters in inforation technology
-- 👨‍💻 I like learning and building various kinds of applications mostly web based along with a few mobile apps
+- 👨‍💻 I like learning new technologies and building various kinds of applications (mostly web based)
 - 🔭 I’m currently working on some side projects along with my studies
 - 📫 How to reach me: [Email](mailto:shetty073@gmail.com)
 
