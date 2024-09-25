@@ -10,7 +10,7 @@
 #### My Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shetty073&show_icons=true&theme=outrun&icon_color=eee&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shetty073&show_icons=true&theme=outrun&icon_color=eee&hide=contribs&include_all_commits=true" />
 </p>
 
 <p>
