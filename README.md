@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ashish
 
 - 🌱 I’m currently working as a technical lead in a fintech organization in India. Golang and Python are my main stack alongside with some AWS services.
-- 👨‍💻 This github profile contains all the work that I do during my free time. While mostly are web applications, I also indulge myself into data scraping and analysis from time to time.
+- 👨‍💻 This github profile contains all the work that I do during my free time. While mostly are web applications, I also indulge myself into data scraping and analysis from time to time. Feel free to checkout my projects and if you wish to contribute in any of them or have any idea for feature enhancements or bug fixes then raise an issue in the respective repo.
 - 📫 How to reach me: [Email](mailto:shetty073@gmail.com)
 
 <hr />
