@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Ashish
 
-- 🌱 I’m currently pursuing my masters in information technology
-- 👨‍💻 I like learning new technologies and building various kinds of applications (mostly web based)
-- 🔭 I’m currently working on some side projects along with my studies
+- 🌱 I’m currently working as a technical lead in a fintech organization in India.
+- 👨‍💻 This github profile contains all the work that I do during my free time. While mostly are web applications, I also indulge myself into data scraping and analysis from time to time.
 - 📫 How to reach me: [Email](mailto:shetty073@gmail.com)
 
 <hr />
